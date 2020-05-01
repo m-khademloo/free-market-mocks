@@ -12,104 +12,107 @@
                 "actualPageSize": 24,
                 "totalSize": 24,
                 "totalPage": 1,
-                "data": [
-                    {
-                        "title": "آب و هوا",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.app.weatherclock_128x128.png"
-                    },
-                    {
-                        "title": "آشپزی و رستوران",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.app5.mrchef_128x128.png"
-                    },
-                    {
-                        "title": "آموزش",
-                        "icon": "https://s.cafebazaar.ir/1/icons/ir.learnit_128x128.png"
-                    },
-                    {
-                        "title": "ابزارها",
-                        "icon": "https://s.cafebazaar.ir/1/icons/colors.ir.ircolor_128x128.png"
-                    },
-                    {
-                        "title": "امور مالی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/ir.hooshdadeh.bourse_128x128.png"
-                    },
-                    {
-                        "title": "پیام‌رسان‌ها",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.whatsapp_128x128.png"
-                    },
-                    {
-                        "title": "خبرها و نشریات",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.dibaache.android_128x128.png"
-                    },
-                    {
-                        "title": "خرید",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.botick.app_128x128.png"
-                    },
-                    {
-                        "title": "دارو و درمان",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.smartest.android_128x128.png"
-                    },
-                    {
-                        "title": "رفت و آمد",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.pas.BusHmd_128x128.png"
-                    },
-                    {
-                        "title": "سبک زندگی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/ir.pakcharkh.bdood_128x128.png"
-                    },
-                    {
-                        "title": "سرگرمی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/pl.ayground.coloringbook_128x128.png"
-                    },
-                    {
-                        "title": "سیر و سفر",
-                        "icon": "https://s.cafebazaar.ir/1/icons/ir.alibaba_128x128.png"
-                    },
-                    {
-                        "title": "شبکه‌های اجتماعی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.linkedin.android_128x128.png"
-                    },
-                    {
-                        "title": "شخصی‌سازی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.PHELAT.Vollip_128x128.png"
-                    },
-                    {
-                        "title": "عکاسی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.acolorstory_128x128.png"
-                    },
-                    {
-                        "title": "کاربردی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.android.chrome_128x128.png"
-                    },
-                    {
-                        "title": "کتاب‌ها و منابع",
-                        "icon": "https://s.cafebazaar.ir/1/icons/ir.mservices.mybook_128x128.png"
-                    },
-                    {
-                        "title": "کسب و کار",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.parsasoftsystem.dokkan_128x128.png"
-                    },
-                    {
-                        "title": "مذهبی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.oloomquran_128x128.png"
-                    },
-                    {
-                        "title": "موسیقی و صدا",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.soundcloud.android_128x128.png"
-                    },
-                    {
-                        "title": "ورزش و تغذیه سالم",
-                        "icon": "https://s.cafebazaar.ir/1/icons/sixpack.sixpackabs.absworkout_128x128.png"
-                    },
-                    {
-                        "title": "ورزشی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.juventus.app.android_128x128.png"
-                    },
-                    {
-                        "title": "ویدئو و رسانه",
-                        "icon": "https://s.cafebazaar.ir/1/icons/ir.smartup.vidioto_128x128.png"
-                    }
-                ]
+                "data": {
+                    "title": "برنامه‌ها",
+                    "items": [
+                        {
+                            "title": "آب و هوا",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.app.weatherclock_128x128.png"
+                        },
+                        {
+                            "title": "آشپزی و رستوران",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.app5.mrchef_128x128.png"
+                        },
+                        {
+                            "title": "آموزش",
+                            "icon": "https://s.cafebazaar.ir/1/icons/ir.learnit_128x128.png"
+                        },
+                        {
+                            "title": "ابزارها",
+                            "icon": "https://s.cafebazaar.ir/1/icons/colors.ir.ircolor_128x128.png"
+                        },
+                        {
+                            "title": "امور مالی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/ir.hooshdadeh.bourse_128x128.png"
+                        },
+                        {
+                            "title": "پیام‌رسان‌ها",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.whatsapp_128x128.png"
+                        },
+                        {
+                            "title": "خبرها و نشریات",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.dibaache.android_128x128.png"
+                        },
+                        {
+                            "title": "خرید",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.botick.app_128x128.png"
+                        },
+                        {
+                            "title": "دارو و درمان",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.smartest.android_128x128.png"
+                        },
+                        {
+                            "title": "رفت و آمد",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.pas.BusHmd_128x128.png"
+                        },
+                        {
+                            "title": "سبک زندگی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/ir.pakcharkh.bdood_128x128.png"
+                        },
+                        {
+                            "title": "سرگرمی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/pl.ayground.coloringbook_128x128.png"
+                        },
+                        {
+                            "title": "سیر و سفر",
+                            "icon": "https://s.cafebazaar.ir/1/icons/ir.alibaba_128x128.png"
+                        },
+                        {
+                            "title": "شبکه‌های اجتماعی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.linkedin.android_128x128.png"
+                        },
+                        {
+                            "title": "شخصی‌سازی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.PHELAT.Vollip_128x128.png"
+                        },
+                        {
+                            "title": "عکاسی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.acolorstory_128x128.png"
+                        },
+                        {
+                            "title": "کاربردی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.android.chrome_128x128.png"
+                        },
+                        {
+                            "title": "کتاب‌ها و منابع",
+                            "icon": "https://s.cafebazaar.ir/1/icons/ir.mservices.mybook_128x128.png"
+                        },
+                        {
+                            "title": "کسب و کار",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.parsasoftsystem.dokkan_128x128.png"
+                        },
+                        {
+                            "title": "مذهبی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.oloomquran_128x128.png"
+                        },
+                        {
+                            "title": "موسیقی و صدا",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.soundcloud.android_128x128.png"
+                        },
+                        {
+                            "title": "ورزش و تغذیه سالم",
+                            "icon": "https://s.cafebazaar.ir/1/icons/sixpack.sixpackabs.absworkout_128x128.png"
+                        },
+                        {
+                            "title": "ورزشی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.juventus.app.android_128x128.png"
+                        },
+                        {
+                            "title": "ویدئو و رسانه",
+                            "icon": "https://s.cafebazaar.ir/1/icons/ir.smartup.vidioto_128x128.png"
+                        }
+                    ]
+                }
             },
             {
                 "page": 1,
@@ -117,56 +120,59 @@
                 "actualPageSize": 12,
                 "totalSize": 12,
                 "totalPage": 1,
-                "data": [
-                    {
-                        "title": "آموزشی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.ohanian.kiddosincamp_512x512.png"
-                    },
-                    {
-                        "title": "استراتژی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.leme.coe_512x512.png"
-                    },
-                    {
-                        "title": "اکشن",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.nzt.shadow.lengeds.stickman.action.rpg_512x512.png"
-                    },
-                    {
-                        "title": "امتیازی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.nightlightgamestudio.loopa_512x512.png"
-                    },
-                    {
-                        "title": "تفننی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/game.bubble.shooter.dragon.pop_512x512.png"
-                    },
-                    {
-                        "title": "خانوادگی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.karizmastudio.yatzy_512x512.png"
-                    },
-                    {
-                        "title": "رانندگی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.ontherun.woaiyouxi.palm_512x512.png"
-                    },
-                    {
-                        "title": "شبیه‌سازی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.darbache.sedarchahar_512x512.png"
-                    },
-                    {
-                        "title": "کلمات و دانستنی‌ها",
-                        "icon": "https://s.cafebazaar.ir/1/icons/wordslide.stackcrossword.wordsearchgame_512x512.png"
-                    },
-                    {
-                        "title": "ماجرایی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.AmanitaDesign.Machinarium.Humble_512x512.png"
-                    },
-                    {
-                        "title": "معمایی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.differencetenderwhite.skirt_512x512.png"
-                    },
-                    {
-                        "title": "ورزشی",
-                        "icon": "https://s.cafebazaar.ir/1/icons/com.Midopia.SarZarb_512x512.png"
-                    }
-                ]
+                "data": {
+                    "title": "بازی‌ها",
+                    "items": [
+                        {
+                            "title": "آموزشی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.ohanian.kiddosincamp_512x512.png"
+                        },
+                        {
+                            "title": "استراتژی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.leme.coe_512x512.png"
+                        },
+                        {
+                            "title": "اکشن",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.nzt.shadow.lengeds.stickman.action.rpg_512x512.png"
+                        },
+                        {
+                            "title": "امتیازی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.nightlightgamestudio.loopa_512x512.png"
+                        },
+                        {
+                            "title": "تفننی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/game.bubble.shooter.dragon.pop_512x512.png"
+                        },
+                        {
+                            "title": "خانوادگی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.karizmastudio.yatzy_512x512.png"
+                        },
+                        {
+                            "title": "رانندگی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.ontherun.woaiyouxi.palm_512x512.png"
+                        },
+                        {
+                            "title": "شبیه‌سازی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.darbache.sedarchahar_512x512.png"
+                        },
+                        {
+                            "title": "کلمات و دانستنی‌ها",
+                            "icon": "https://s.cafebazaar.ir/1/icons/wordslide.stackcrossword.wordsearchgame_512x512.png"
+                        },
+                        {
+                            "title": "ماجرایی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.AmanitaDesign.Machinarium.Humble_512x512.png"
+                        },
+                        {
+                            "title": "معمایی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.differencetenderwhite.skirt_512x512.png"
+                        },
+                        {
+                            "title": "ورزشی",
+                            "icon": "https://s.cafebazaar.ir/1/icons/com.Midopia.SarZarb_512x512.png"
+                        }
+                    ]
+                }
             }
         ]
     },
