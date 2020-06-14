@@ -1,0 +1,105 @@
+{
+  "name":"home",
+  "version":"v1",
+  "components": [
+    {
+      "type": "BigPromotionBanner",
+      "data": {
+        "image": {
+          "path": "http://1.jpg",
+          "ratio": "4:3"
+        },
+        "item": {
+          "link": "freemarket://page/pdp?parameter=222",
+          "icon": {
+            "path": "http://1.jpg",
+            "ratio": "1:1"
+          },
+          "title": "sample title",
+          "price": "0",
+          "tag": null
+        },
+        "inlineAction": {
+          "title": "install",
+          "link": "freemarket://page/pdp?parameter=222"
+        },
+        "tag": {
+          "title": "Only in FreeMarket",
+          "backgroundColor": "#3489ab48"
+        }
+      },
+      "____comments": [
+        "item can be null => item section should be gone",
+        "inlineAction can be null => inlineAction section should be gone",
+        "tag can be null => tag section should be gone",
+        "item.link is not the same as inlineAction.link",
+        "item.link is called when image clicked",
+        "inlineAction.link is called when inlineAction clicked",
+        "obviously when item is null, image is not clickable and the same concept is applied for inlineAction",
+        "the progress of download in inlineAction is hard to implement, so for the next two months, we guaranty that inlineAction.link==item.link"
+      ]
+    },
+    {
+      "type": "OneRowItems",
+      "data": {
+        "title": "Best games ever",
+        "inlineAction": {
+          "title": "More",
+          "link": "freemarket://page/pdp?parameter=222"
+        },
+        "items": [
+          {
+            "link": "freemarket://page/pdp?parameter=222",
+            "icon": {
+              "path": "http://1.jpg",
+              "ratio": "1:1"
+            },
+            "title": "sample title",
+            "price": "0",
+            "tag": {
+              "title": "free",
+              "backgroundColor": "#3489ab48"
+            }
+          },
+          {
+            "link": "freemarket://page/pdp?parameter=222",
+            "icon": {
+              "path": "http://1.jpg",
+              "ratio": "1:1"
+            },
+            "title": "sample title",
+            "price": "0",
+            "tag": {
+              "title": "free",
+              "backgroundColor": "#3489ab48"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "OneRowBanners",
+      "data": {
+        "title": "Best banners ever",
+        "inlineAction": {
+          "title": "More",
+          "link": "freemarket://page/pdp?parameter=222"
+        },
+        "banners": [
+          {
+            "image": {
+              "path": "http://1.jpg",
+              "ratio": "2:1",
+              "ratioTypes": "WidthBased"
+            },
+            "link": "freemarket://page/pdp?parameter=222",
+            "tag": {
+              "title": "Only in FreeMarket",
+              "backgroundColor": "#3489ab48"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
