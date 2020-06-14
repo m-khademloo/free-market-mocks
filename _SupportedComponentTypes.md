@@ -11,7 +11,7 @@ PDP
 - Comments
 - Links
 - Divider
-- ItemUpdateSummery
+- ItemUpdateSummery (rename it)
 
 Categories
 - Link
