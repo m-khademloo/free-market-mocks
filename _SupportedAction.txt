@@ -1,0 +1,7 @@
+Install an APK
+MailTo
+Dial
+TextMessage
+DeepLink
+Webpage
+Share
