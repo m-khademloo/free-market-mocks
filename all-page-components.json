@@ -1,19 +1,25 @@
 {
-  "name":"home",
-  "version":"v1",
+  "name": "home",
+  "version": "v1",
   "components": [
     {
       "type": "BigPromotionBanner",
       "data": {
         "image": {
           "path": "http://1.jpg",
-          "ratio": "4:3"
+          "ratio": {
+            "scale": "4:3",
+            "type": "WidthBased"
+          }
         },
         "item": {
           "link": "freemarket://page/pdp?parameter=222",
           "icon": {
             "path": "http://1.jpg",
-            "ratio": "1:1"
+            "ratio": {
+              "scale": "1:1",
+              "type": "HeightBased"
+            }
           },
           "title": "sample title",
           "price": "0",
@@ -52,7 +58,10 @@
             "link": "freemarket://page/pdp?parameter=222",
             "icon": {
               "path": "http://1.jpg",
-              "ratio": "1:1"
+              "ratio": {
+                "scale": "1:1",
+                "type": "HeightBased"
+              }
             },
             "title": "sample title",
             "price": "0",
@@ -65,7 +74,10 @@
             "link": "freemarket://page/pdp?parameter=222",
             "icon": {
               "path": "http://1.jpg",
-              "ratio": "1:1"
+              "ratio": {
+                "scale": "1:1",
+                "type": "HeightBased"
+              }
             },
             "title": "sample title",
             "price": "0",
@@ -89,8 +101,10 @@
           {
             "image": {
               "path": "http://1.jpg",
-              "ratio": "2:1",
-              "ratioTypes": "WidthBased"
+              "ratio": {
+                "scale": "2:1",
+                "type": "HeightBased"
+              }
             },
             "link": "freemarket://page/pdp?parameter=222",
             "tag": {
