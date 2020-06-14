@@ -1,7 +1,7 @@
-Install an APK
-MailTo
-Dial
-TextMessage
-DeepLink
-Webpage
-Share
+- Install an APK
+- MailTo
+- Dial
+- TextMessage
+- DeepLink
+- Webpage
+- Share
