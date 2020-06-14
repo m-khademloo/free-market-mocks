@@ -11,6 +11,7 @@ PDP
 - Comments
 - Links
 - Divider
+- ItemUpdateSummery
 
 Categories
 - Link
