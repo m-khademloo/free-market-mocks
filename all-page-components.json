@@ -940,7 +940,7 @@
                         "banners": [
                             {
                                 "image": {
-                                    "path": "http://1.jpg",
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4314_m_fa.jpg",
                                     "ratio": {
                                         "scale": "2:1",
                                         "type": "HeightBased"
@@ -948,7 +948,49 @@
                                 },
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
-                                    "title": "Only in FreeMarket",
+                                    "title": "فقط در مارکت آزاد",
+                                    "backgroundColor": "#3489ab48"
+                                }
+                            },
+                            {
+                                "image": {
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4308_m_fa.jpg",
+                                    "ratio": {
+                                        "scale": "2:1",
+                                        "type": "HeightBased"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": {
+                                    "title": "فقط در مارکت آزاد",
+                                    "backgroundColor": "#3489ab48"
+                                }
+                            },
+                            {
+                                "image": {
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4285_m_fa.jpg",
+                                    "ratio": {
+                                        "scale": "2:1",
+                                        "type": "HeightBased"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": {
+                                    "title": "فقط در مارکت آزاد",
+                                    "backgroundColor": "#3489ab48"
+                                }
+                            },
+                            {
+                                "image": {
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo3996_m_fa.jpg",
+                                    "ratio": {
+                                        "scale": "2:1",
+                                        "type": "HeightBased"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": {
+                                    "title": "فقط در مارکت آزاد",
                                     "backgroundColor": "#3489ab48"
                                 }
                             }
