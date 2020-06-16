@@ -605,56 +605,54 @@
                         "title": "چرت و پرتا",
                         "inlineAction": null,
                         "items": [
-                            [
-                                {
-                                    "link": "freemarket://page/pdp?parameter=222",
-                                    "icon": {
-                                        "path": "https://s.cafebazaar.ir/1/icons/ir.basalam.app_128x128.png",
-                                        "ratio": {
-                                            "scale": "1:1",
-                                            "type": "HeightBased"
-                                        }
-                                    },
-                                    "title": "باسلام | خرید و فروش محصولات ایرانی",
-                                    "price": "0",
-                                    "tag": {
-                                        "title": "رایگان",
-                                        "backgroundColor": "#3489ab48"
+                            {
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/ir.basalam.app_128x128.png",
+                                    "ratio": {
+                                        "scale": "1:1",
+                                        "type": "HeightBased"
                                     }
                                 },
-                                {
-                                    "link": "freemarket://page/pdp?parameter=222",
-                                    "icon": {
-                                        "path": "https://s.cafebazaar.ir/1/icons/biz.labkhand.kidsphone_128x128.png",
-                                        "ratio": {
-                                            "scale": "1:1",
-                                            "type": "HeightBased"
-                                        }
-                                    },
-                                    "title": "تلفن کودک (موبایل هوشمند کودک)",
-                                    "price": "0",
-                                    "tag": {
-                                        "title": "رایگان",
-                                        "backgroundColor": "#3489ab48"
-                                    }
-                                },
-                                {
-                                    "link": "freemarket://page/pdp?parameter=222",
-                                    "icon": {
-                                        "path": "https://s.cafebazaar.ir/1/icons/ir.nasim_128x128.png",
-                                        "ratio": {
-                                            "scale": "1:1",
-                                            "type": "HeightBased"
-                                        }
-                                    },
-                                    "title": "بله (گفتگو+پرداخت)",
-                                    "price": "0",
-                                    "tag": {
-                                        "title": "رایگان",
-                                        "backgroundColor": "#3489ab48"
-                                    }
+                                "title": "باسلام | خرید و فروش محصولات ایرانی",
+                                "price": "0",
+                                "tag": {
+                                    "title": "رایگان",
+                                    "backgroundColor": "#3489ab48"
                                 }
-                            ]
+                            },
+                            {
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/biz.labkhand.kidsphone_128x128.png",
+                                    "ratio": {
+                                        "scale": "1:1",
+                                        "type": "HeightBased"
+                                    }
+                                },
+                                "title": "تلفن کودک (موبایل هوشمند کودک)",
+                                "price": "0",
+                                "tag": {
+                                    "title": "رایگان",
+                                    "backgroundColor": "#3489ab48"
+                                }
+                            },
+                            {
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/ir.nasim_128x128.png",
+                                    "ratio": {
+                                        "scale": "1:1",
+                                        "type": "HeightBased"
+                                    }
+                                },
+                                "title": "بله (گفتگو+پرداخت)",
+                                "price": "0",
+                                "tag": {
+                                    "title": "رایگان",
+                                    "backgroundColor": "#3489ab48"
+                                }
+                            }
                         ]
                     }
                 },
