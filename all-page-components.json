@@ -322,7 +322,7 @@
                         "title": "در حال پیشرفت",
                         "inlineAction": null,
                         "items": [
-                            [
+                            
                                 {
                                     "link": "freemarket://page/pdp?parameter=222",
                                     "icon": {
@@ -596,7 +596,7 @@
                                     }
                                 }
                             ]
-                        ]
+                        
                     }
                 },
                 {
