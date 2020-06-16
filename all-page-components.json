@@ -320,7 +320,7 @@
                     "type": "OneRowItems",
                     "data": {
                         "title": "در حال پیشرفت",
-                        "inlineAction": null,
+                        "inlineAction": null, 
                         "items": [
                             {
                                 "link": "freemarket://page/pdp?parameter=222",
