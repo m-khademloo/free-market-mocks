@@ -9,7 +9,7 @@
                     "type": "BigPromotionBanner",
                     "data": {
                         "image": {
-                            "path": "http://1.jpg",
+                            "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
                             "ratio": {
                                 "scale": "4:3",
                                 "type": "WidthBased"
@@ -18,22 +18,22 @@
                         "item": {
                             "link": "freemarket://page/pdp?parameter=222",
                             "icon": {
-                                "path": "http://1.jpg",
+                                "path": "https://s.cafebazaar.ir/1/icons/com.Dorna.TinySoldiers_128x128.png",
                                 "ratio": {
                                     "scale": "1:1",
                                     "type": "HeightBased"
                                 }
                             },
-                            "title": "sample title",
+                            "title": "سربازان کوچک",
                             "price": "0",
                             "tag": null
                         },
                         "inlineAction": {
-                            "title": "install",
+                            "title": "نصب",
                             "link": "freemarket://page/pdp?parameter=222"
                         },
                         "tag": {
-                            "title": "Only in FreeMarket",
+                            "title": "فقط در مارکت آزاد",
                             "backgroundColor": "#3489ab48"
                         }
                     },
