@@ -1038,6 +1038,47 @@
                             }
                         ]
                     }
+                },
+                {
+                    "type": "ItemHeader",
+                    "data": {
+                        "item": {
+                            "link": "freemarket://page/pdp?parameter=222",
+                            "icon": {
+                                "path": "https://s.cafebazaar.ir/1/icons/com.as.followerbegir.app_128x128.png",
+                                "ratio": {
+                                    "scale": "1:1",
+                                    "type": "HeightBased"
+                                }
+                            },
+                            "title": "فالور بگیر پلاس",
+                            "price": "رایگان",
+                            "tag": {
+                                "title": "رایگان",
+                                "backgroundColor": "#3489ab48"
+                            }
+                        },
+                        "company": {
+                            "title": "شرکت نرم‌افزاری اینستاپلاس",
+                            "link": "freemarket://page/pdp?parameter=222"
+                        },
+                        "inlineAction": {
+                            "title": "نصب",
+                            "link": "freemarket://page/pdp?parameter=222"
+                        },
+                        "image": {
+                            "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
+                            "ratio": {
+                                "scale": "2:1",
+                                "type": "WidthBased"
+                            }
+                        },
+                        "imageOverlay": {
+                            "cropType": "bottomCurve",
+                            "overlayColor": "#44438819",
+                            "bluePercent": 50
+                        }
+                    }
                 }
             ]
         }
