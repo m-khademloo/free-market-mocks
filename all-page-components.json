@@ -1079,6 +1079,49 @@
                             "bluePercent": 50
                         }
                     }
+                },
+                {
+                    "type": "ItemOverview",
+                    "data": {
+                        "itemOverviewSections": [
+                            {
+                                "title": "۱ هزار",
+                                "subTitle": "نصب فعال",
+                                "link": "freemarket://page/pdp?parameter=222"
+                            },
+                            {
+                                "title": "۴/۷ <icon>\\e901</icon>",
+                                "subTitle": "۶.۶۰۱",
+                                "link": "freemarket://page/pdp?parameter=222"
+                            },
+                            {
+                                "title": "شبکه اجتماعی",
+                                "subTitle": "دسته‌ها",
+                                "link": "freemarket://page/pdp?parameter=222"
+                            },
+                            {
+                                "title": "۱۳ مگابایت",
+                                "subTitle": "حجم",
+                                "link": "freemarket://page/pdp?parameter=222"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "Divider",
+                    "data": {
+                        "color": "#444444",
+                        "margin": {
+                            "leftMargin": {
+                                "quantity": 16,
+                                "type": "dp"
+                            },
+                            "rightMargin": {
+                                "quantity": 16,
+                                "type": "dp"
+                            }
+                        }
+                    }
                 }
             ]
         }
