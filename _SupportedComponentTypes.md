@@ -5,12 +5,12 @@ Home/PLP
 
 PDP
 - ~ItemHeader~
-- ItemOverview
+- ~ItemOverview~
 - ItemDescription
 - CommentsOverview
 - Comments
 - ~LinkVerticalCollection~
-- Divider
+- ~Divider~
 - ItemUpdateSummery (rename it)
 
 Categories
