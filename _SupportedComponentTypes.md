@@ -15,3 +15,4 @@ PDP
 
 Categories
 - Link
+- LinkItem
