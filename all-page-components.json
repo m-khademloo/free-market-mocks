@@ -1091,7 +1091,7 @@
                             },
                             {
                                 "title": "۴/۷ <icon>\\e901</icon>",
-                                "subTitle": "۶.۶۰۱",
+                                "subTitle": "۶۶۰۱",
                                 "link": "freemarket://page/pdp?parameter=222"
                             },
                             {
@@ -1121,6 +1121,37 @@
                                 "type": "dp"
                             }
                         }
+                    }
+                },
+                {
+                    "type": "CommentsOverview",
+                    "data": {
+                        "title": "نظرات و امتیاز‌ها",
+                        "link": "freemarket://page/pdp?parameter=222",
+                        "commentsOverviewAverage": "۴/۷",
+                        "commentsOverviewCount": "۶۶۰۱ نظر",
+                        "commentsOverviewSections": [
+                            {
+                                "title": "۵ <icon>\\e901</icon>",
+                                "percent": 50
+                            },
+                            {
+                                "title": "۴ <icon>\\e901</icon>",
+                                "percent": 30
+                            },
+                            {
+                                "title": "۳ <icon>\\e901</icon>",
+                                "percent": 5
+                            },
+                            {
+                                "title": "۲ <icon>\\e901</icon>",
+                                "percent": 10
+                            },
+                            {
+                                "title": "۱ <icon>\\e901</icon>",
+                                "percent": 15
+                            }
+                        ]
                     }
                 }
             ]
