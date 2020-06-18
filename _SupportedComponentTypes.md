@@ -1,20 +1,20 @@
 Home/PLP
-- BigPromotionBanner
-- OneRowItems
-- OneRowBanners
+- ~BigPromotionBanner~
+- ~OneRowItems~
+- ~OneRowBanners~
 
 PDP
-- ItemHeader
+- ~ItemHeader~
 - ItemOverview
 - ItemDescription
 - CommentsOverview
 - Comments
-- LinkVerticalCollection
+- ~LinkVerticalCollection~
 - Divider
 - ItemUpdateSummery (rename it)
 
 Categories
-- LinkVerticalCollection
+- ~LinkVerticalCollection~
 
 ItemListing
 - ItemCollection
