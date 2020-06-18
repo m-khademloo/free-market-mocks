@@ -7,8 +7,8 @@ PDP
 - ~ItemHeader~
 - ~ItemOverview~
 - ItemDescription
-- CommentsOverview
-- Comments
+- ~CommentsOverview~
+- CommentVerticalCollection
 - ~LinkVerticalCollection~
 - ~Divider~
 - ItemUpdateSummery (rename it)
