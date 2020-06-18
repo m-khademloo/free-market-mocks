@@ -994,7 +994,7 @@
                     }
                 },
                 {
-                    "type": "LinkCollection",
+                    "type": "LinkVerticalCollection",
                     "data": {
                         "title": "بازی‌ها",
                         "maxCount": 3,
