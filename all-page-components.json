@@ -1124,12 +1124,12 @@
                     }
                 },
                 {
-                    "type": "CommentsOverview",
+                    "type": "RatesOverview",
                     "data": {
                         "title": "نظرات و امتیاز‌ها",
                         "link": "freemarket://page/pdp?parameter=222",
-                        "commentsOverviewAverage": "۴/۷",
-                        "commentsOverviewCount": "۶۶۰۱ نظر",
+                        "rateAverage": "۴/۷",
+                        "rateCount": "۶۶۰۱ نظر",
                         "commentsOverviewSections": [
                             {
                                 "title": "۵ <icon>\\e901</icon>",
@@ -1150,6 +1150,40 @@
                             {
                                 "title": "۱ <icon>\\e901</icon>",
                                 "percent": 15
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "CommentVerticalCollection",
+                    "data": {
+                        "Comments": [
+                            {
+                                "user": {
+                                    "name": "میلاد عدلی",
+                                    "profileImage": "https://s.cafebazaar.ir/1/icons/com.farakav.anten_128x128.png"
+                                },
+                                "datetime": "۹۹/۱/۲۴",
+                                "ratePercent": 85,
+                                "body": "خیلی خوبه ولی ایکاش فارسی بود"
+                            },
+                            {
+                                "user": {
+                                    "name": "امیر",
+                                    "profileImage": "https://s.cafebazaar.ir/1/icons/samgostar.storydownloader.instagram_128x128.png"
+                                },
+                                "datetime": "۹۹/۲/۴",
+                                "ratePercent": 30,
+                                "body": "علی حرف نداره. من دو ماه نصب کردم و واقعا نتیجه گرفتم امیدوارم نصب کنید و برای شما هم خوب باشه"
+                            },
+                            {
+                                "user": {
+                                    "name": "سجاد",
+                                    "profileImage": "https://s.cafebazaar.ir/1/icons/ir.noghreonlion.app_128x128.png"
+                                },
+                                "datetime": "۹۸/۱/۱",
+                                "ratePercent": 100,
+                                "body": "خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین."
                             }
                         ]
                     }
