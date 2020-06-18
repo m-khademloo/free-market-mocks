@@ -9,10 +9,12 @@ PDP
 - ItemDescription
 - CommentsOverview
 - Comments
-- Links
+- LinkCollection
 - Divider
 - ItemUpdateSummery (rename it)
 
 Categories
-- Link
-- LinkItem
+- LinkCollection
+
+ItemListing
+- ItemCollection
