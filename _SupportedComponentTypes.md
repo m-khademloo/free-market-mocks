@@ -9,12 +9,16 @@ PDP
 - ItemDescription
 - CommentsOverview
 - Comments
-- LinkCollection
+- LinkVerticalCollection
 - Divider
 - ItemUpdateSummery (rename it)
 
 Categories
-- LinkCollection
+- LinkVerticalCollection
 
 ItemListing
 - ItemCollection
+
+Future works
+- LinkGridCollection (Idea from SnappMarket categories grid)
+- Offer (BigPromotionBanner with a count-down timer)
