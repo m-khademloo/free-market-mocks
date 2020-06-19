@@ -996,7 +996,7 @@
                   "ratio": {
                     "dimensionRatio": "2:1",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "h,1:1"
+                    "constraintDimensionRatio": "h,4:3"
                   }
                 },
                 "link": "freemarket://page/pdp?parameter=222",
@@ -1011,7 +1011,7 @@
                   "ratio": {
                     "dimensionRatio": "2:1",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "h,1:1"
+                    "constraintDimensionRatio": "h,3:4"
                   }
                 },
                 "link": "freemarket://page/pdp?parameter=222",
@@ -1026,7 +1026,7 @@
                   "ratio": {
                     "dimensionRatio": "2:1",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "h,1:1"
+                    "constraintDimensionRatio": "h,2:1"
                   }
                 },
                 "link": "freemarket://page/pdp?parameter=222",
@@ -1038,6 +1038,21 @@
               {
                 "image": {
                   "path": "https://fecdn.cafebazaar.ir/promos/promo3996_m_fa.jpg",
+                  "ratio": {
+                    "dimensionRatio": "2:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:2"
+                  }
+                },
+                "link": "freemarket://page/pdp?parameter=222",
+                "tag": {
+                  "title": "فقط در مارکت آزاد",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "image": {
+                  "path": "https://fecdn.cafebazaar.ir/promos/promo4314_m_fa.jpg",
                   "ratio": {
                     "dimensionRatio": "2:1",
                     "type": "HeightBased",
