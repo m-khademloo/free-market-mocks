@@ -345,9 +345,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.viztushar.bigmoji_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "Bigmoji - WAStickerApp",
@@ -362,9 +362,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/ir.devitco.habookapp_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "حابوک | فروشگاه کتاب آنلاین",
@@ -379,9 +379,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.mi.globalbrowser_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "Mi Browser Pro - Video Download, Free, Fast&Secure",
@@ -396,9 +396,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/org.foxword.foxword_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "فاکس ورد: آموزش زبان های خارجی",
@@ -413,9 +413,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.myramp.app_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "مای‌رمپ",
@@ -430,9 +430,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/ir.sabapp.hefzquran_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "آیه (آموزشگاه یادگیری هوشمند قرآن)",
@@ -447,9 +447,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.google.android.apps.meetings_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "Google Meet",
@@ -464,9 +464,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/org.jitsi.meet_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "Jitsi Meet",
@@ -481,9 +481,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/ir.eritco.gymShowAthlete_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "جیم شو:کالری شمار، بدنسازی،فیتنس TV",
@@ -498,9 +498,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/ir.morabiehamrah_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "مربی همراه-رژیم تغذیه و باشگاه شخصی",
@@ -515,9 +515,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.gekko.rok_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "خشم پادشاهان (آنلاین)",
@@ -532,9 +532,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.lexipgames.darkroom_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "اتاق تاریک",
@@ -549,9 +549,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.fakegames.bugkiller_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "مگس کش",
@@ -566,9 +566,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.tzgame.kingdomaffairs_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "داستان تاج و تخت (آنلاین)",
@@ -583,9 +583,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.Zonmob.ShadowofDeath.FightingGames_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "سایه مرگ: شوالیه تاریکی",
@@ -600,9 +600,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/info.medrick.lilyland_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "گلپری",
@@ -617,9 +617,9 @@
                                 "icon": {
                                     "path": "https://s.cafebazaar.ir/1/icons/com.Dorna.TinySoldiers_128x128.png",
                                     "ratio": {
-                                        "dimensionRatio": "1:1",
+                                        "dimensionRatio": "16:9",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
+                                        "constraintDimensionRatio": "h,16:9"
                                     }
                                 },
                                 "title": "سربازان کوچک",
