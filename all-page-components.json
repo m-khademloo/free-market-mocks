@@ -13,7 +13,7 @@
                             "ratio": {
                                 "dimensionRatio": "3:4",
                                 "type": "WidthBased",
-                                "constraintDimensionRatio": "w,3:4"
+                                "constraintDimensionRatio": "w,4:3"
                             }
                         },
                         "item": {
