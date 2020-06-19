@@ -13,7 +13,7 @@
               "ratio": {
                 "dimensionRatio": "3:4",
                 "type": "WidthBased",
-                "constraintDimensionRatio": "w,3:4"
+                "constraintDimensionRatio": "w,4:3"
               }
             },
             "item": {
@@ -347,7 +347,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "Bigmoji - WAStickerApp",
@@ -364,7 +364,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "حابوک | فروشگاه کتاب آنلاین",
@@ -381,7 +381,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "Mi Browser Pro - Video Download, Free, Fast&Secure",
@@ -398,7 +398,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "فاکس ورد: آموزش زبان های خارجی",
@@ -415,7 +415,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "مای‌رمپ",
@@ -432,7 +432,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "آیه (آموزشگاه یادگیری هوشمند قرآن)",
@@ -449,7 +449,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "Google Meet",
@@ -466,7 +466,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "Jitsi Meet",
@@ -483,7 +483,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "جیم شو:کالری شمار، بدنسازی،فیتنس TV",
@@ -500,7 +500,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "مربی همراه-رژیم تغذیه و باشگاه شخصی",
@@ -517,7 +517,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "خشم پادشاهان (آنلاین)",
@@ -534,7 +534,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "اتاق تاریک",
@@ -551,7 +551,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "مگس کش",
@@ -568,7 +568,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "داستان تاج و تخت (آنلاین)",
@@ -585,7 +585,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "سایه مرگ: شوالیه تاریکی",
@@ -602,7 +602,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "گلپری",
@@ -619,7 +619,7 @@
                   "ratio": {
                     "dimensionRatio": "16:9",
                     "type": "HeightBased",
-                    "constraintDimensionRatio": "w,3:4"
+                    "constraintDimensionRatio": "w,4:3"
                   }
                 },
                 "title": "سربازان کوچک",
