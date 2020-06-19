@@ -1,1395 +1,1395 @@
 {
-    "result": {
-        "hasNext": false,
-        "page": {
-            "name": "home",
-            "version": "v3",
-            "components": [
-                {
-                    "type": "BigPromotionBanner",
-                    "data": {
-                        "image": {
-                            "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
-                            "ratio": {
-                                "dimensionRatio": "3:4",
-                                "type": "WidthBased",
-                                "constraintDimensionRatio": "w,3:4"
-                            }
-                        },
-                        "item": {
-                            "link": "freemarket://page/pdp?parameter=222",
-                            "icon": {
-                                "path": "https://s.cafebazaar.ir/1/icons/com.Dorna.TinySoldiers_128x128.png",
-                                "ratio": {
-                                    "dimensionRatio": "1:1",
-                                    "type": "HeightBased",
-                                    "constraintDimensionRatio": "h,1:1"
-                                }
-                            },
-                            "title": "سربازان کوچک",
-                            "price": "رایگان",
-                            "tag": null
-                        },
-                        "inlineAction": {
-                            "title": "نصب",
-                            "link": "freemarket://page/pdp?parameter=222"
-                        },
-                        "tag": {
-                            "title": "فقط در مارکت آزاد",
-                            "backgroundColor": "#3489ab48"
-                        }
-                    },
-                    "____comments": [
-                        "item can be null => item section should be gone",
-                        "inlineAction can be null => inlineAction section should be gone",
-                        "tag can be null => tag section should be gone",
-                        "item.link is not the same as inlineAction.link",
-                        "item.link is called when image clicked",
-                        "inlineAction.link is called when inlineAction clicked",
-                        "obviously when item is null, image is not clickable and the same concept is applied for inlineAction",
-                        "the progress of download in inlineAction is hard to implement, so for the next two months, we guaranty that inlineAction.link==item.link"
-                    ]
-                },
-                {
-                    "type": "OneRowItems",
-                    "data": {
-                        "title": "بهترین برنامه ها",
-                        "inlineAction": {
-                            "title": "بیشتر",
-                            "link": "freemarket://page/pdp?parameter=222"
-                        },
-                        "items": [
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.traxtoor.tab_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "ترکی آذربایجانی در 30 روز",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/biz.labkhand.kidsphone_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "تلفن کودک (موبایل هوشمند کودک)",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/org.binesh.picrecovery_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "ریکاوری حرفه ای عکسها +دمو",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.Midopia.RaceAndChase_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "آژیر",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/ir.noghreonlion.app_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "نقره آنلاین",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/ir.fwdco.salema_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "رژیم سالِما - برنامه تغذیه و ورزش",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/ir.darshoo.seller_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "درشو - سامانه خرید پسماند خشک",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/mobi.mmdt.ott_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "پیام رسان سروش",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.piccolo.footballi.server_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "فوتبالی| نتایج و پخش زنده فوتبال",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.ParsisGames.WWII_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "اسکادران آتش",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.fakegames.bugkiller_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "مگس کش",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.AAGames.Edge_of_Fear_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "لبه ی ترس",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/samgostar.storydownloader.instagram_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "اینستا دانلودر (عکس،فیلم،IGTV)",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.bourseeye.newsapp_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "چشم بورس (اخبار سهام، کالا و...)",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.as.followerbegir.app_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "فالور بگیر پلاس",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.farakav.anten_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "آنتن- پخش زنده فوتبال و تلویزیون",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "OneRowItems",
-                    "data": {
-                        "title": "سریال‌های دوبله شده",
-                        "inlineAction": null,
-                        "items": [
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/d3f56b08-45ba-4559-b5f9-17e42052ffe8",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "لیست سیاه",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/e30c9af9-482c-4328-9bd7-aaab97b524c9",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "آمفیبیا",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/694d5eb8-edd9-457b-ad11-97b51d1e806d",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "باب اسفنجی",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/ec4cadac-6b8d-4d3e-b080-c6b0dc398683",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "بن تن نیروی بی پایان",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/b6a550aa-9b6a-4b69-b9d0-dd59f1ab526d",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "بیگانه",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/c1a051bf-8c8f-4543-aa1d-079e00445dca",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "ماجراجویی در پاریس",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/307fbc98-39c8-49c2-b4ed-49b3ec790158",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "سگ های ولگرد",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/d09fe703-c73f-4a7e-93ec-deb8b2ca9c96",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "دیدن",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/04920cd1-3472-45d1-9970-9fc895db6969",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "چرنوبیل",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/291b2fb7-8ac3-460c-9738-c2e9caee01ac",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "فرار از زندان",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/59d76646-9bbf-4aa0-9ae1-fd5b7e6e3ea8",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "مردگان متحرک",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/a1b766b6-732f-446b-8ca0-86d9cc89140e",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "ماجراهای زورو",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/0594233a-223d-457b-a207-54269726ade6",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "بچه رییس : بازگشت به کار",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/1da61437-f09b-4277-9798-72d79d80043f",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "تئوری بیگ بنگ",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/1ba64c95-2f3a-421f-97af-466a145e9551",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "بن تن 2016",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/0358d23e-9c7e-4ed5-9468-e16c9b4b19e6",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "بهتره با سول تماس بگیری",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/d43017da-f661-4c68-93c6-c704dc5d2d65",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "بن تن",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/02984bba-040e-4416-82bd-7134d9b9934d",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "خانه من",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/0241a859-e490-460b-a870-9fefe740546d",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "بن تن نیروی بیگانگان",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/03b3713a-e1ff-487f-a391-5187d8d4ff4a",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "خانه پوشالی",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/51e53cec-fd76-4e6c-ad98-63ec1f2721c4",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "ورود به سرزمین های بد",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/50d18317-9abb-4486-a1ed-e450103affb6",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "فولکلور",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/4ec15752-37f0-45c3-bc1e-846ec00e1aee",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "ویچر",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/823a1c55-eaad-471f-b1af-c654e81c71bc",
-                                    "ratio": {
-                                        "dimensionRatio": "16:9",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "w,4:3"
-                                    }
-                                },
-                                "title": "سوپرگرل",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "OneRowItems",
-                    "data": {
-                        "title": "چرت و پرتا",
-                        "inlineAction": null,
-                        "items": [
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/ir.basalam.app_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "باسلام | خرید و فروش محصولات ایرانی",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/biz.labkhand.kidsphone_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "تلفن کودک (موبایل هوشمند کودک)",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/ir.nasim_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "بله (گفتگو+پرداخت)",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "OneRowItems",
-                    "data": {
-                        "title": "پولی های باحال",
-                        "inlineAction": null,
-                        "items": [
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/ir.mipoli.baltazar_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "بالتازار بازی با کلمات",
-                                "price": "۱۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.metrobus_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "متروباس",
-                                "price": "۲۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/ir.skyt.soccercity_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "شهر فوتبالی",
-                                "price": "۳۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.digikala_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "دیجی‌کالا",
-                                "price": "۴۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/org.zwanoo.android.speedtest_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "Speedtest by Ookla",
-                                "price": "۱۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.zohaltech.app.sigma_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "سیگما - مدیریت اینترنت WiFi/4G/3G",
-                                "price": "۲۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.brek.itm_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "اینترمتر - مدیریت اینترنت اندروید",
-                                "price": "۱۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/lksystems.wifiintruder_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "Wifi Inspector",
-                                "price": "۲۴۱۶ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.smm.datausage_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "پادا - مدیریت بسته اینترنت",
-                                "price": "۱۸۰۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.andcreate.app.trafficmonitor_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "Data Usage Monitor",
-                                "price": "۹۰۰۰۰ تومان",
-                                "tag": null
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.mobidia.android.mdm_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "My Data Manager - Data Usage",
-                                "price": "۲۸۰۰ تومان",
-                                "tag": null
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "OneRowItems",
-                    "data": {
-                        "items": [
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.memorymakers.enemynightmare2_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "کابوس دشمن: رزم آورد",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.trixmen.degree48_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "۴۸ درجه شرقی",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.gunaystudio.khak_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "بازی خاک",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/ir.mastermindstudio.insiege_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "محاصره",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.AAGames.Edge_of_Fear_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "لبه ی ترس",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.fpsgame.tkb.ir_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "جعبه مرگ",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.KillerBeanStudios.EnemyStrike_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "title": "Enemy Strike",
-                                "price": "رایگان",
-                                "tag": {
-                                    "title": "رایگان",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "OneRowBanners",
-                    "data": {
-                        "title": "Best banners ever",
-                        "inlineAction": {
-                            "title": "More",
-                            "link": "freemarket://page/pdp?parameter=222"
-                        },
-                        "banners": [
-                            {
-                                "image": {
-                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4314_m_fa.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": {
-                                    "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "image": {
-                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4308_m_fa.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,3:4"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": {
-                                    "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "image": {
-                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4285_m_fa.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,2:1"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": {
-                                    "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "image": {
-                                    "path": "https://fecdn.cafebazaar.ir/promos/promo3996_m_fa.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:2"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": {
-                                    "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            },
-                            {
-                                "image": {
-                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4314_m_fa.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": {
-                                    "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "LinkVerticalCollection",
-                    "data": {
-                        "title": "بازی‌ها",
-                        "maxCount": 3,
-                        "inlineAction": {
-                            "title": "More",
-                            "link": "freemarket://page/pdp?parameter=222"
-                        },
-                        "divider": {
-                            "color": "#444444",
-                            "margin": {
-                                "leftMargin": {
-                                    "quantity": 16,
-                                    "type": "dp"
-                                },
-                                "rightMargin": {
-                                    "quantity": 16,
-                                    "type": "dp"
-                                }
-                            }
-                        },
-                        "links": [
-                            {
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.fpsgame.tkb.ir_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222"
-                            },
-                            {
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.bourseeye.newsapp_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "ItemHeader",
-                    "data": {
-                        "item": {
-                            "link": "freemarket://page/pdp?parameter=222",
-                            "icon": {
-                                "path": "https://s.cafebazaar.ir/1/icons/com.as.followerbegir.app_128x128.png",
-                                "ratio": {
-                                    "dimensionRatio": "1:1",
-                                    "type": "HeightBased",
-                                    "constraintDimensionRatio": "h,1:1"
-                                }
-                            },
-                            "title": "فالور بگیر پلاس",
-                            "price": "رایگان",
-                            "tag": {
-                                "title": "رایگان",
-                                "backgroundColor": "#3489ab48"
-                            }
-                        },
-                        "company": {
-                            "title": "شرکت نرم‌افزاری اینستاپلاس",
-                            "link": "freemarket://page/pdp?parameter=222"
-                        },
-                        "inlineAction": {
-                            "title": "نصب",
-                            "link": "freemarket://page/pdp?parameter=222"
-                        },
-                        "image": {
-                            "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
-                            "ratio": {
-                                "dimensionRatio": "2:1",
-                                "type": "WidthBased",
-                                "constraintDimensionRatio": "w,w:1"
-                            }
-                        },
-                        "imageOverlay": {
-                            "cropType": "bottomCurve",
-                            "overlayColor": "#44438819",
-                            "bluePercent": 50
-                        }
-                    }
-                },
-                {
-                    "type": "ItemOverview",
-                    "data": {
-                        "itemOverviewSections": [
-                            {
-                                "title": "۱ هزار",
-                                "subTitle": "نصب فعال",
-                                "link": "freemarket://page/pdp?parameter=222"
-                            },
-                            {
-                                "title": "۴/۷ <icon>\\e901</icon>",
-                                "subTitle": "۶۶۰۱",
-                                "link": "freemarket://page/pdp?parameter=222"
-                            },
-                            {
-                                "title": "شبکه اجتماعی",
-                                "subTitle": "دسته‌ها",
-                                "link": "freemarket://page/pdp?parameter=222"
-                            },
-                            {
-                                "title": "۱۳ مگابایت",
-                                "subTitle": "حجم",
-                                "link": "freemarket://page/pdp?parameter=222"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "Divider",
-                    "data": {
-                        "color": "#444444",
-                        "margin": {
-                            "leftMargin": {
-                                "quantity": 16,
-                                "type": "dp"
-                            },
-                            "rightMargin": {
-                                "quantity": 16,
-                                "type": "dp"
-                            }
-                        }
-                    }
-                },
-                {
-                    "type": "RatesOverview",
-                    "data": {
-                        "title": "نظرات و امتیاز‌ها",
-                        "link": "freemarket://page/pdp?parameter=222",
-                        "rateAverage": "۴/۷",
-                        "rateCount": "۶۶۰۱ نظر",
-                        "commentsOverviewSections": [
-                            {
-                                "title": "۵ <icon>\\e901</icon>",
-                                "percent": 50
-                            },
-                            {
-                                "title": "۴ <icon>\\e901</icon>",
-                                "percent": 30
-                            },
-                            {
-                                "title": "۳ <icon>\\e901</icon>",
-                                "percent": 5
-                            },
-                            {
-                                "title": "۲ <icon>\\e901</icon>",
-                                "percent": 10
-                            },
-                            {
-                                "title": "۱ <icon>\\e901</icon>",
-                                "percent": 15
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "CommentVerticalCollection",
-                    "data": {
-                        "Comments": [
-                            {
-                                "user": {
-                                    "name": "میلاد عدلی",
-                                    "profileImage": "https://s.cafebazaar.ir/1/icons/com.farakav.anten_128x128.png"
-                                },
-                                "datetime": "۹۹/۱/۲۴",
-                                "ratePercent": 85,
-                                "body": "خیلی خوبه ولی ایکاش فارسی بود"
-                            },
-                            {
-                                "user": {
-                                    "name": "امیر",
-                                    "profileImage": "https://s.cafebazaar.ir/1/icons/samgostar.storydownloader.instagram_128x128.png"
-                                },
-                                "datetime": "۹۹/۲/۴",
-                                "ratePercent": 30,
-                                "body": "علی حرف نداره. من دو ماه نصب کردم و واقعا نتیجه گرفتم امیدوارم نصب کنید و برای شما هم خوب باشه"
-                            },
-                            {
-                                "user": {
-                                    "name": "سجاد",
-                                    "profileImage": "https://s.cafebazaar.ir/1/icons/ir.noghreonlion.app_128x128.png"
-                                },
-                                "datetime": "۹۸/۱/۱",
-                                "ratePercent": 100,
-                                "body": "خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین."
-                            }
-                        ]
-                    }
+  "result": {
+    "hasNext": false,
+    "page": {
+      "name": "home",
+      "version": "v3",
+      "components": [
+        {
+          "type": "BigPromotionBanner",
+          "data": {
+            "image": {
+              "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
+              "ratio": {
+                "dimensionRatio": "3:4",
+                "type": "WidthBased",
+                "constraintDimensionRatio": "w,3:4"
+              }
+            },
+            "item": {
+              "link": "freemarket://page/pdp?parameter=222",
+              "icon": {
+                "path": "https://s.cafebazaar.ir/1/icons/com.Dorna.TinySoldiers_128x128.png",
+                "ratio": {
+                  "dimensionRatio": "1:1",
+                  "type": "HeightBased",
+                  "constraintDimensionRatio": "h,1:1"
                 }
+              },
+              "title": "سربازان کوچک",
+              "price": "رایگان",
+              "tag": null
+            },
+            "inlineAction": {
+              "title": "نصب",
+              "link": "freemarket://page/pdp?parameter=222"
+            },
+            "tag": {
+              "title": "فقط در مارکت آزاد",
+              "backgroundColor": "#3489ab48"
+            }
+          },
+          "____comments": [
+            "item can be null => item section should be gone",
+            "inlineAction can be null => inlineAction section should be gone",
+            "tag can be null => tag section should be gone",
+            "item.link is not the same as inlineAction.link",
+            "item.link is called when image clicked",
+            "inlineAction.link is called when inlineAction clicked",
+            "obviously when item is null, image is not clickable and the same concept is applied for inlineAction",
+            "the progress of download in inlineAction is hard to implement, so for the next two months, we guaranty that inlineAction.link==item.link"
+          ]
+        },
+        {
+          "type": "OneRowItems",
+          "data": {
+            "title": "بهترین برنامه ها",
+            "inlineAction": {
+              "title": "بیشتر",
+              "link": "freemarket://page/pdp?parameter=222"
+            },
+            "items": [
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.traxtoor.tab_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "ترکی آذربایجانی در 30 روز",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/biz.labkhand.kidsphone_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "تلفن کودک (موبایل هوشمند کودک)",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/org.binesh.picrecovery_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "ریکاوری حرفه ای عکسها +دمو",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.Midopia.RaceAndChase_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "آژیر",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/ir.noghreonlion.app_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "نقره آنلاین",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/ir.fwdco.salema_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "رژیم سالِما - برنامه تغذیه و ورزش",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/ir.darshoo.seller_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "درشو - سامانه خرید پسماند خشک",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/mobi.mmdt.ott_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "پیام رسان سروش",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.piccolo.footballi.server_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "فوتبالی| نتایج و پخش زنده فوتبال",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.ParsisGames.WWII_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "اسکادران آتش",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.fakegames.bugkiller_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "مگس کش",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.AAGames.Edge_of_Fear_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "لبه ی ترس",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/samgostar.storydownloader.instagram_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "اینستا دانلودر (عکس،فیلم،IGTV)",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.bourseeye.newsapp_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "چشم بورس (اخبار سهام، کالا و...)",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.as.followerbegir.app_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "فالور بگیر پلاس",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.farakav.anten_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "آنتن- پخش زنده فوتبال و تلویزیون",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              }
             ]
+          }
+        },
+        {
+          "type": "OneRowItems",
+          "data": {
+            "title": "سریال‌های دوبله شده",
+            "inlineAction": null,
+            "items": [
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/d3f56b08-45ba-4559-b5f9-17e42052ffe8",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "لیست سیاه",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/e30c9af9-482c-4328-9bd7-aaab97b524c9",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "آمفیبیا",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/694d5eb8-edd9-457b-ad11-97b51d1e806d",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "باب اسفنجی",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/ec4cadac-6b8d-4d3e-b080-c6b0dc398683",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "بن تن نیروی بی پایان",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/b6a550aa-9b6a-4b69-b9d0-dd59f1ab526d",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "بیگانه",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/c1a051bf-8c8f-4543-aa1d-079e00445dca",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "ماجراجویی در پاریس",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/307fbc98-39c8-49c2-b4ed-49b3ec790158",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "سگ های ولگرد",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/d09fe703-c73f-4a7e-93ec-deb8b2ca9c96",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "دیدن",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/04920cd1-3472-45d1-9970-9fc895db6969",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "چرنوبیل",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/291b2fb7-8ac3-460c-9738-c2e9caee01ac",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "فرار از زندان",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/59d76646-9bbf-4aa0-9ae1-fd5b7e6e3ea8",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "مردگان متحرک",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/a1b766b6-732f-446b-8ca0-86d9cc89140e",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "ماجراهای زورو",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/0594233a-223d-457b-a207-54269726ade6",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "بچه رییس : بازگشت به کار",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/1da61437-f09b-4277-9798-72d79d80043f",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "تئوری بیگ بنگ",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/1ba64c95-2f3a-421f-97af-466a145e9551",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "بن تن 2016",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/0358d23e-9c7e-4ed5-9468-e16c9b4b19e6",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "بهتره با سول تماس بگیری",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/d43017da-f661-4c68-93c6-c704dc5d2d65",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "بن تن",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/02984bba-040e-4416-82bd-7134d9b9934d",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "خانه من",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/0241a859-e490-460b-a870-9fefe740546d",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "بن تن نیروی بیگانگان",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/03b3713a-e1ff-487f-a391-5187d8d4ff4a",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "خانه پوشالی",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/51e53cec-fd76-4e6c-ad98-63ec1f2721c4",
+                  "ratio": {
+                    "dimensionRatio": "16:9",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,4:3"
+                  }
+                },
+                "title": "ورود به سرزمین های بد",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/50d18317-9abb-4486-a1ed-e450103affb6",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "فولکلور",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/4ec15752-37f0-45c3-bc1e-846ec00e1aee",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,1:1"
+                  }
+                },
+                "title": "ویچر",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://3e313e881b851e7a5a8198a435700465.cdn.cafebazaar.cloud/videos/covers/823a1c55-eaad-471f-b1af-c654e81c71bc",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "w,1:1"
+                  }
+                },
+                "title": "سوپرگرل",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "OneRowItems",
+          "data": {
+            "title": "چرت و پرتا",
+            "inlineAction": null,
+            "items": [
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/ir.basalam.app_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "باسلام | خرید و فروش محصولات ایرانی",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/biz.labkhand.kidsphone_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "تلفن کودک (موبایل هوشمند کودک)",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/ir.nasim_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "بله (گفتگو+پرداخت)",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "OneRowItems",
+          "data": {
+            "title": "پولی های باحال",
+            "inlineAction": null,
+            "items": [
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/ir.mipoli.baltazar_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "بالتازار بازی با کلمات",
+                "price": "۱۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.metrobus_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "متروباس",
+                "price": "۲۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/ir.skyt.soccercity_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "شهر فوتبالی",
+                "price": "۳۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.digikala_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "دیجی‌کالا",
+                "price": "۴۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/org.zwanoo.android.speedtest_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "Speedtest by Ookla",
+                "price": "۱۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.zohaltech.app.sigma_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "سیگما - مدیریت اینترنت WiFi/4G/3G",
+                "price": "۲۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.brek.itm_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "اینترمتر - مدیریت اینترنت اندروید",
+                "price": "۱۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/lksystems.wifiintruder_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "Wifi Inspector",
+                "price": "۲۴۱۶ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.smm.datausage_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "پادا - مدیریت بسته اینترنت",
+                "price": "۱۸۰۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.andcreate.app.trafficmonitor_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "Data Usage Monitor",
+                "price": "۹۰۰۰۰ تومان",
+                "tag": null
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.mobidia.android.mdm_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "My Data Manager - Data Usage",
+                "price": "۲۸۰۰ تومان",
+                "tag": null
+              }
+            ]
+          }
+        },
+        {
+          "type": "OneRowItems",
+          "data": {
+            "items": [
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.memorymakers.enemynightmare2_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "کابوس دشمن: رزم آورد",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.trixmen.degree48_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "۴۸ درجه شرقی",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.gunaystudio.khak_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "بازی خاک",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/ir.mastermindstudio.insiege_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "محاصره",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.AAGames.Edge_of_Fear_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "لبه ی ترس",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.fpsgame.tkb.ir_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "جعبه مرگ",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "link": "freemarket://page/pdp?parameter=222",
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.KillerBeanStudios.EnemyStrike_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "title": "Enemy Strike",
+                "price": "رایگان",
+                "tag": {
+                  "title": "رایگان",
+                  "backgroundColor": "#3489ab48"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "OneRowBanners",
+          "data": {
+            "title": "Best banners ever",
+            "inlineAction": {
+              "title": "More",
+              "link": "freemarket://page/pdp?parameter=222"
+            },
+            "banners": [
+              {
+                "image": {
+                  "path": "https://fecdn.cafebazaar.ir/promos/promo4314_m_fa.jpg",
+                  "ratio": {
+                    "dimensionRatio": "2:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,4:3"
+                  }
+                },
+                "link": "freemarket://page/pdp?parameter=222",
+                "tag": {
+                  "title": "فقط در مارکت آزاد",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "image": {
+                  "path": "https://fecdn.cafebazaar.ir/promos/promo4308_m_fa.jpg",
+                  "ratio": {
+                    "dimensionRatio": "2:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,3:4"
+                  }
+                },
+                "link": "freemarket://page/pdp?parameter=222",
+                "tag": {
+                  "title": "فقط در مارکت آزاد",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "image": {
+                  "path": "https://fecdn.cafebazaar.ir/promos/promo4285_m_fa.jpg",
+                  "ratio": {
+                    "dimensionRatio": "2:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,2:1"
+                  }
+                },
+                "link": "freemarket://page/pdp?parameter=222",
+                "tag": {
+                  "title": "فقط در مارکت آزاد",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "image": {
+                  "path": "https://fecdn.cafebazaar.ir/promos/promo3996_m_fa.jpg",
+                  "ratio": {
+                    "dimensionRatio": "2:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:2"
+                  }
+                },
+                "link": "freemarket://page/pdp?parameter=222",
+                "tag": {
+                  "title": "فقط در مارکت آزاد",
+                  "backgroundColor": "#3489ab48"
+                }
+              },
+              {
+                "image": {
+                  "path": "https://fecdn.cafebazaar.ir/promos/promo4314_m_fa.jpg",
+                  "ratio": {
+                    "dimensionRatio": "2:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "link": "freemarket://page/pdp?parameter=222",
+                "tag": {
+                  "title": "فقط در مارکت آزاد",
+                  "backgroundColor": "#3489ab48"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "LinkVerticalCollection",
+          "data": {
+            "title": "بازی‌ها",
+            "maxCount": 3,
+            "inlineAction": {
+              "title": "More",
+              "link": "freemarket://page/pdp?parameter=222"
+            },
+            "divider": {
+              "color": "#444444",
+              "margin": {
+                "leftMargin": {
+                  "quantity": 16,
+                  "type": "dp"
+                },
+                "rightMargin": {
+                  "quantity": 16,
+                  "type": "dp"
+                }
+              }
+            },
+            "links": [
+              {
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.fpsgame.tkb.ir_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "link": "freemarket://page/pdp?parameter=222"
+              },
+              {
+                "icon": {
+                  "path": "https://s.cafebazaar.ir/1/icons/com.bourseeye.newsapp_128x128.png",
+                  "ratio": {
+                    "dimensionRatio": "1:1",
+                    "type": "HeightBased",
+                    "constraintDimensionRatio": "h,1:1"
+                  }
+                },
+                "link": "freemarket://page/pdp?parameter=222"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ItemHeader",
+          "data": {
+            "item": {
+              "link": "freemarket://page/pdp?parameter=222",
+              "icon": {
+                "path": "https://s.cafebazaar.ir/1/icons/com.as.followerbegir.app_128x128.png",
+                "ratio": {
+                  "dimensionRatio": "1:1",
+                  "type": "HeightBased",
+                  "constraintDimensionRatio": "h,1:1"
+                }
+              },
+              "title": "فالور بگیر پلاس",
+              "price": "رایگان",
+              "tag": {
+                "title": "رایگان",
+                "backgroundColor": "#3489ab48"
+              }
+            },
+            "company": {
+              "title": "شرکت نرم‌افزاری اینستاپلاس",
+              "link": "freemarket://page/pdp?parameter=222"
+            },
+            "inlineAction": {
+              "title": "نصب",
+              "link": "freemarket://page/pdp?parameter=222"
+            },
+            "image": {
+              "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
+              "ratio": {
+                "dimensionRatio": "2:1",
+                "type": "WidthBased",
+                "constraintDimensionRatio": "w,w:1"
+              }
+            },
+            "imageOverlay": {
+              "cropType": "bottomCurve",
+              "overlayColor": "#44438819",
+              "bluePercent": 50
+            }
+          }
+        },
+        {
+          "type": "ItemOverview",
+          "data": {
+            "itemOverviewSections": [
+              {
+                "title": "۱ هزار",
+                "subTitle": "نصب فعال",
+                "link": "freemarket://page/pdp?parameter=222"
+              },
+              {
+                "title": "۴/۷ <icon>\\e901</icon>",
+                "subTitle": "۶۶۰۱",
+                "link": "freemarket://page/pdp?parameter=222"
+              },
+              {
+                "title": "شبکه اجتماعی",
+                "subTitle": "دسته‌ها",
+                "link": "freemarket://page/pdp?parameter=222"
+              },
+              {
+                "title": "۱۳ مگابایت",
+                "subTitle": "حجم",
+                "link": "freemarket://page/pdp?parameter=222"
+              }
+            ]
+          }
+        },
+        {
+          "type": "Divider",
+          "data": {
+            "color": "#444444",
+            "margin": {
+              "leftMargin": {
+                "quantity": 16,
+                "type": "dp"
+              },
+              "rightMargin": {
+                "quantity": 16,
+                "type": "dp"
+              }
+            }
+          }
+        },
+        {
+          "type": "RatesOverview",
+          "data": {
+            "title": "نظرات و امتیاز‌ها",
+            "link": "freemarket://page/pdp?parameter=222",
+            "rateAverage": "۴/۷",
+            "rateCount": "۶۶۰۱ نظر",
+            "commentsOverviewSections": [
+              {
+                "title": "۵ <icon>\\e901</icon>",
+                "percent": 50
+              },
+              {
+                "title": "۴ <icon>\\e901</icon>",
+                "percent": 30
+              },
+              {
+                "title": "۳ <icon>\\e901</icon>",
+                "percent": 5
+              },
+              {
+                "title": "۲ <icon>\\e901</icon>",
+                "percent": 10
+              },
+              {
+                "title": "۱ <icon>\\e901</icon>",
+                "percent": 15
+              }
+            ]
+          }
+        },
+        {
+          "type": "CommentVerticalCollection",
+          "data": {
+            "Comments": [
+              {
+                "user": {
+                  "name": "میلاد عدلی",
+                  "profileImage": "https://s.cafebazaar.ir/1/icons/com.farakav.anten_128x128.png"
+                },
+                "datetime": "۹۹/۱/۲۴",
+                "ratePercent": 85,
+                "body": "خیلی خوبه ولی ایکاش فارسی بود"
+              },
+              {
+                "user": {
+                  "name": "امیر",
+                  "profileImage": "https://s.cafebazaar.ir/1/icons/samgostar.storydownloader.instagram_128x128.png"
+                },
+                "datetime": "۹۹/۲/۴",
+                "ratePercent": 30,
+                "body": "علی حرف نداره. من دو ماه نصب کردم و واقعا نتیجه گرفتم امیدوارم نصب کنید و برای شما هم خوب باشه"
+              },
+              {
+                "user": {
+                  "name": "سجاد",
+                  "profileImage": "https://s.cafebazaar.ir/1/icons/ir.noghreonlion.app_128x128.png"
+                },
+                "datetime": "۹۸/۱/۱",
+                "ratePercent": 100,
+                "body": "خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین."
+              }
+            ]
+          }
         }
-    },
-    "error": null,
-    "statusCode": 200,
-    "serverDateTime": "2020-05-01T17:47:06.6843332+00:00"
+      ]
+    }
+  },
+  "error": null,
+  "statusCode": 200,
+  "serverDateTime": "2020-05-01T17:47:06.6843332+00:00"
 }
