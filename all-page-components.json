@@ -11,9 +11,9 @@
                         "image": {
                             "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
                             "ratio": {
-                                "dimensionRatio": "4:3",
+                                "dimensionRatio": "3:4",
                                 "type": "WidthBased",
-                                "constraintDimensionRatio": "w,4:3"
+                                "constraintDimensionRatio": "w,3:4"
                             }
                         },
                         "item": {
