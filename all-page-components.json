@@ -1113,7 +1113,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
+                                    "backgroundColor": "#D90CFA",
+                                    "textColor": "#0CC4FA"
                                 }
                             },
                             {
@@ -1128,7 +1129,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
+                                    "backgroundColor": "#D90CFA",
+                                    "textColor": "#0CC4FA"
                                 }
                             },
                             {
@@ -1143,7 +1145,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
+                                    "backgroundColor": "#D90CFA",
+                                    "textColor": "#0CC4FA"
                                 }
                             },
                             {
@@ -1158,7 +1161,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
+                                    "backgroundColor": "#D90CFA",
+                                    "textColor": "#0CC4FA"
                                 }
                             },
                             {
@@ -1173,7 +1177,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#3489ab48"
+                                    "backgroundColor": "#D90CFA",
+                                    "textColor": "#0CC4FA"
                                 }
                             }
                         ]
