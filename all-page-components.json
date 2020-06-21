@@ -9,7 +9,7 @@
           "type": "BigPromotionBanner",
           "data": {
             "image": {
-              "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
+              "path": "https://image.freepik.com/free-vector/promotion-square-banner-collection_52683-4541.jpg",
               "ratio": {
                 "dimensionRatio": "1:1",
                 "type": "WidthBased",
@@ -23,20 +23,26 @@
                 "ratio": {
                   "dimensionRatio": "1:1",
                   "type": "HeightBased",
-                  "constraintDimensionRatio": "1:2"
+                  "constraintDimensionRatio": "1:1"
                 }
               },
               "title": "سربازان کوچک",
               "price": "رایگان",
               "tag": null
             },
+            "actionbar":{
+              "backgroundColor": "#eeccffee"
+            },
             "inlineAction": {
               "title": "نصب",
-              "link": "freemarket://page/pdp?parameter=222"
+              "link": "freemarket://page/pdp?parameter=222",
+              "backgroundColor": "#ff0066",
+              "textColor":"#000000"
             },
             "tag": {
               "title": "فقط در مارکت آزاد",
-              "backgroundColor": "#3489ab48"
+              "backgroundColor": "#e212a1",
+              "textColor":"#000000"
             }
           },
           "____comments": [
