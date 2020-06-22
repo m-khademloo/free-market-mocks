@@ -1201,7 +1201,7 @@
                                     "type": "dp"
                                 },
                                 "rightMargin": {
-                                    "quantity": 16,
+                                    "quantity": 48,
                                     "type": "dp"
                                 }
                             }
@@ -1216,7 +1216,8 @@
                                         "constraintDimensionRatio": "h,1:1"
                                     }
                                 },
-                                "link": "freemarket://page/pdp?parameter=222"
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "مورد اول"
                             },
                             {
                                 "icon": {
@@ -1227,7 +1228,32 @@
                                         "constraintDimensionRatio": "h,1:1"
                                     }
                                 },
-                                "link": "freemarket://page/pdp?parameter=222"
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "مورد دوم"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.fpsgame.tkb.ir_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "مورد سوم"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.bourseeye.newsapp_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "مورد چهارم"
                             }
                         ]
                     }
