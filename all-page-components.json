@@ -1196,7 +1196,7 @@
                         "inlineAction": {
                             "title": "More",
                             "link": "freemarket://page/pdp?parameter=222",
-                            "backgroundColor": "#00000000",
+                            "backgroundColor": null,
                             "textColor": "#000000"
                         },
                         "divider": {
