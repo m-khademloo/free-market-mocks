@@ -62,7 +62,9 @@
                         "title": "بهترین برنامه ها",
                         "inlineAction": {
                             "title": "بیشتر",
-                            "link": "freemarket://page/pdp?parameter=222"
+                            "link": "freemarket://page/pdp?parameter=222",
+                            "backgroundColor": "#ff0066",
+                            "textColor": "#000000"
                         },
                         "items": [
                             {
@@ -1098,7 +1100,9 @@
                         "title": "Best banners ever",
                         "inlineAction": {
                             "title": "More",
-                            "link": "freemarket://page/pdp?parameter=222"
+                            "link": "freemarket://page/pdp?parameter=222",
+                            "backgroundColor": "#ff0066",
+                            "textColor": "#000000"
                         },
                         "banners": [
                             {
@@ -1191,7 +1195,9 @@
                         "maxCount": 3,
                         "inlineAction": {
                             "title": "More",
-                            "link": "freemarket://page/pdp?parameter=222"
+                            "link": "freemarket://page/pdp?parameter=222",
+                            "backgroundColor": "#ff0066",
+                            "textColor": "#000000"
                         },
                         "divider": {
                             "color": "#444444",
@@ -1285,7 +1291,9 @@
                         },
                         "inlineAction": {
                             "title": "نصب",
-                            "link": "freemarket://page/pdp?parameter=222"
+                            "link": "freemarket://page/pdp?parameter=222",
+                            "backgroundColor": "#ff0066",
+                            "textColor": "#000000"
                         },
                         "image": {
                             "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
