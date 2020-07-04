@@ -1296,17 +1296,17 @@
                             "textColor": "#000000"
                         },
                         "image": {
-                            "path": "https://s.cafebazaar.ir/1/icons/com.supercell.clashofclans_512x512.png",
+                            "path": "https://d2slcw3kip6qmk.cloudfront.net/marketing/press/images/template-gallery/print-banners-community-event-01-c.jpg",
                             "ratio": {
                                 "dimensionRatio": "2:1",
                                 "type": "WidthBased",
-                                "constraintDimensionRatio": "w,w:1"
+                                "constraintDimensionRatio": "w,1:2"
                             }
                         },
                         "imageOverlay": {
                             "cropType": "bottomCurve",
                             "overlayColor": "#44438819",
-                            "bluePercent": 50
+                            "blurPercent": 50
                         }
                     }
                 },
