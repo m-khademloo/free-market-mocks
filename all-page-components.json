@@ -1355,7 +1355,7 @@
                         "link": "freemarket://page/pdp?parameter=222",
                         "rateAverage": "۴/۷",
                         "rateCount": "۶۶۰۱ نظر",
-                        "commentsOverviewSections": [
+                        "RatesOverviewSections": [
                             {
                                 "title": "۵ <icon>\\e901</icon>",
                                 "percent": 50
