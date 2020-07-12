@@ -736,6 +736,140 @@
                     }
                 },
                 {
+                    "type": "OneRowBanners",
+                    "data": {
+                        "title": "پرفروش‌ترین ها",
+                        "inlineAction": {
+                            "title": "همه رو ببین",
+                            "link": "freemarket://page/pdp?parameter=222",
+                            "backgroundColor": "#00000000",
+                            "textColor": "#000000"
+                        },
+                        "banners": [
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-557686087493.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-500605048227.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-434067180488.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-128980750558.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-561734201402.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-836208569126.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-550977168791.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-858504476299.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-589264208492.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            },
+                            {
+                                "image": {
+                                    "path": "http://s.cafebazaar.ir/1/upload/screenshot/com.Midopia.SarZarb-523225056365.jpg",
+                                    "ratio": {
+                                        "dimensionRatio": "2:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,4:3"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "tag": null
+                            }
+                        ]
+                    }
+                },
+                {
                     "type": "OneRowItems",
                     "data": {
                         "title": "چرت و پرتا",
@@ -1097,11 +1231,11 @@
                 {
                     "type": "OneRowBanners",
                     "data": {
-                        "title": "Best banners ever",
+                        "title": "به این برنامه‌ها سر بزن، ضرر نمیکنی",
                         "inlineAction": {
-                            "title": "More",
+                            "title": "همه رو ببین",
                             "link": "freemarket://page/pdp?parameter=222",
-                            "backgroundColor": "#ff0066",
+                            "backgroundColor": "#00000000",
                             "textColor": "#000000"
                         },
                         "banners": [
@@ -1117,8 +1251,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#D90CFA",
-                                    "textColor": "#0CC4FA"
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
                                 }
                             },
                             {
@@ -1133,8 +1267,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#D90CFA",
-                                    "textColor": "#0CC4FA"
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
                                 }
                             },
                             {
@@ -1149,8 +1283,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#D90CFA",
-                                    "textColor": "#0CC4FA"
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
                                 }
                             },
                             {
@@ -1165,8 +1299,8 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#D90CFA",
-                                    "textColor": "#0CC4FA"
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
                                 }
                             },
                             {
@@ -1181,234 +1315,9 @@
                                 "link": "freemarket://page/pdp?parameter=222",
                                 "tag": {
                                     "title": "فقط در مارکت آزاد",
-                                    "backgroundColor": "#D90CFA",
-                                    "textColor": "#0CC4FA"
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
                                 }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "LinkVerticalCollection",
-                    "data": {
-                        "title": "بازی‌ها",
-                        "maxCount": 3,
-                        "inlineAction": {
-                            "title": "More",
-                            "link": "freemarket://page/pdp?parameter=222",
-                            "backgroundColor": "#aaff00aa",
-                            "textColor": "#000000"
-                        },
-                        "divider": {
-                            "color": "#444444",
-                            "margin": {
-                                "leftMargin": {
-                                    "quantity": 16,
-                                    "type": "dp"
-                                },
-                                "rightMargin": {
-                                    "quantity": 48,
-                                    "type": "dp"
-                                }
-                            }
-                        },
-                        "links": [
-                            {
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.fpsgame.tkb.ir_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "title": "مورد اول"
-                            },
-                            {
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.bourseeye.newsapp_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "title": "مورد دوم"
-                            },
-                            {
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.fpsgame.tkb.ir_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "title": "مورد سوم"
-                            },
-                            {
-                                "icon": {
-                                    "path": "https://s.cafebazaar.ir/1/icons/com.bourseeye.newsapp_128x128.png",
-                                    "ratio": {
-                                        "dimensionRatio": "1:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,1:1"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "title": "مورد چهارم"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "ItemHeader",
-                    "data": {
-                        "item": {
-                            "link": "freemarket://page/pdp?parameter=222",
-                            "icon": {
-                                "path": "https://s.cafebazaar.ir/1/icons/com.as.followerbegir.app_128x128.png",
-                                "ratio": {
-                                    "dimensionRatio": "1:1",
-                                    "type": "HeightBased",
-                                    "constraintDimensionRatio": "h,1:1"
-                                }
-                            },
-                            "title": "فالور بگیر پلاس",
-                            "price": "رایگان",
-                            "tag": {
-                                "title": "رایگان",
-                                "backgroundColor": "#ff0000",
-                                "textColor": "#ffffff"
-                            }
-                        },
-                        "company": {
-                            "title": "شرکت نرم‌افزاری اینستاپلاس",
-                            "link": "freemarket://page/pdp?parameter=222"
-                        },
-                        "inlineAction": {
-                            "title": "نصب",
-                            "link": "freemarket://page/pdp?parameter=222",
-                            "backgroundColor": "#ff0066",
-                            "textColor": "#000000"
-                        },
-                        "image": {
-                            "path": "https://www.microstocker.pro/wp-content/uploads/2019/05/Mother8217s-day-promotion-banner-design-template.-Mother8217s-day-sale-concept-with-ribbons-and-flowers.-Vector-illustration-6448-600x337.jpg",
-                            "ratio": {
-                                "dimensionRatio": "2:1",
-                                "type": "WidthBased",
-                                "constraintDimensionRatio": "w,1:2"
-                            }
-                        }
-                    }
-                },
-                {
-                    "type": "ItemOverview",
-                    "data": {
-                        "itemOverviewSections": [
-                            {
-                                "title": "۱ هزار",
-                                "subTitle": "نصب فعال",
-                                "link": "freemarket://page/pdp?parameter=222"
-                            },
-                            {
-                                "title": "۴/۷ <icon>e9d7</icon>",
-                                "subTitle": "۶۶۰۱",
-                                "link": "freemarket://page/pdp?parameter=222"
-                            },
-                            {
-                                "title": "شبکه اجتماعی",
-                                "subTitle": "دسته‌ها",
-                                "link": "freemarket://page/pdp?parameter=222"
-                            },
-                            {
-                                "title": "۱۳ مگابایت",
-                                "subTitle": "حجم",
-                                "link": "freemarket://page/pdp?parameter=222"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "Divider",
-                    "data": {
-                        "color": "#444444",
-                        "margin": {
-                            "leftMargin": {
-                                "quantity": 16,
-                                "type": "dp"
-                            },
-                            "rightMargin": {
-                                "quantity": 16,
-                                "type": "dp"
-                            }
-                        }
-                    }
-                },
-                {
-                    "type": "RatesOverview",
-                    "data": {
-                        "title": "نظرات و امتیاز‌ها",
-                        "link": "freemarket://page/pdp?parameter=222",
-                        "rateAverage": "۴/۷",
-                        "rateCount": "۶۶۰۱ نظر",
-                        "RatesOverviewSections": [
-                            {
-                                "title": "<icon>e9d9</icon> ۵",
-                                "percent": 50
-                            },
-                            {
-                                "title": "<icon>e9d9</icon> ۴",
-                                "percent": 30
-                            },
-                            {
-                                "title": "<icon>e9d9</icon> ۳",
-                                "percent": 5
-                            },
-                            {
-                                "title": "<icon>e9d9</icon> ۲",
-                                "percent": 10
-                            },
-                            {
-                                "title": "<icon>e9d9</icon> ۱",
-                                "percent": 15
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type": "CommentVerticalCollection",
-                    "data": {
-                        "Comments": [
-                            {
-                                "user": {
-                                    "name": "میلاد عدلی",
-                                    "profileImage": "https://s.cafebazaar.ir/1/icons/com.farakav.anten_128x128.png"
-                                },
-                                "datetime": "۹۹/۱/۲۴",
-                                "ratePercent": 85,
-                                "body": "خیلی خوبه ولی ایکاش فارسی بود"
-                            },
-                            {
-                                "user": {
-                                    "name": "امیر",
-                                    "profileImage": "https://s.cafebazaar.ir/1/icons/samgostar.storydownloader.instagram_128x128.png"
-                                },
-                                "datetime": "۹۹/۲/۴",
-                                "ratePercent": 30,
-                                "body": "علی حرف نداره. من دو ماه نصب کردم و واقعا نتیجه گرفتم امیدوارم نصب کنید و برای شما هم خوب باشه"
-                            },
-                            {
-                                "user": {
-                                    "name": "سجاد",
-                                    "profileImage": "https://s.cafebazaar.ir/1/icons/ir.noghreonlion.app_128x128.png"
-                                },
-                                "datetime": "۹۸/۱/۱",
-                                "ratePercent": 100,
-                                "body": "خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین. خیلی خیلی برنامه خوبیه. دمتون گرم .ایشا... که به هر چی میخواین برسین."
                             }
                         ]
                     }
