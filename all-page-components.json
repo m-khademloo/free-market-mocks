@@ -1315,7 +1315,7 @@
                                 "link": "freemarket://page/pdp?parameter=222"
                             },
                             {
-                                "title": "۴/۷ <icon>e911</icon>",
+                                "title": "۴/۷ <icon>e9d7</icon>",
                                 "subTitle": "۶۶۰۱",
                                 "link": "freemarket://page/pdp?parameter=222"
                             },
@@ -1357,23 +1357,23 @@
                         "rateCount": "۶۶۰۱ نظر",
                         "RatesOverviewSections": [
                             {
-                                "title": "۵ <icon>e911</icon>",
+                                "title": "<icon>e9d9</icon> ۵",
                                 "percent": 50
                             },
                             {
-                                "title": "۴ <icon>e911</icon>",
+                                "title": "<icon>e9d9</icon> ۴",
                                 "percent": 30
                             },
                             {
-                                "title": "۳ <icon>e911</icon>",
+                                "title": "<icon>e9d9</icon> ۳",
                                 "percent": 5
                             },
                             {
-                                "title": "۲ <icon>e911</icon>",
+                                "title": "<icon>e9d9</icon> ۲",
                                 "percent": 10
                             },
                             {
-                                "title": "۱ <icon>e911</icon>",
+                                "title": "<icon>e9d9</icon> ۱",
                                 "percent": 15
                             }
                         ]
