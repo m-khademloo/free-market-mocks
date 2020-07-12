@@ -63,7 +63,7 @@
                         "inlineAction": {
                             "title": "بیشتر",
                             "link": "freemarket://page/pdp?parameter=222",
-                            "backgroundColor": "#ff0066",
+                            "backgroundColor": "#00000000",
                             "textColor": "#000000"
                         },
                         "items": [
