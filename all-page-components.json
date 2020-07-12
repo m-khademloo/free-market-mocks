@@ -9,7 +9,7 @@
                     "type": "BigPromotionBanner",
                     "data": {
                         "image": {
-                            "path": "https://image.freepik.com/free-vector/promotion-square-banner-collection_52683-4541.jpg",
+                            "path": "https://i.pinimg.com/564x/6b/f4/14/6bf4141281ef28fdb01d5b2e97dfb6b6.jpg",
                             "ratio": {
                                 "dimensionRatio": "1:1",
                                 "type": "WidthBased",
@@ -19,30 +19,30 @@
                         "item": {
                             "link": "freemarket://page/pdp?parameter=222",
                             "icon": {
-                                "path": "https://s.cafebazaar.ir/1/icons/com.Dorna.TinySoldiers_128x128.png",
+                                "path": "https://static.appvn.com/a/uploads/thumbnails/012017/gangster-squad-fighting-game-unreleased_icon.png",
                                 "ratio": {
                                     "dimensionRatio": "1:1",
                                     "type": "HeightBased",
                                     "constraintDimensionRatio": "1:1"
                                 }
                             },
-                            "title": "سربازان کوچک",
+                            "title": "بزن، بکش، فرار کن",
                             "price": "رایگان",
                             "tag": null
                         },
                         "actionbar": {
-                            "backgroundColor": "#eeccffee"
+                            "backgroundColor": "#9957464f"
                         },
                         "inlineAction": {
                             "title": "نصب",
                             "link": "freemarket://page/pdp?parameter=222",
-                            "backgroundColor": "#ff0066",
+                            "backgroundColor": "#ffffff",
                             "textColor": "#000000"
                         },
                         "tag": {
-                            "title": "فقط در مارکت آزاد",
-                            "backgroundColor": "#e212a1",
-                            "textColor": "#000000"
+                            "title": "خفن‌ترین بازی ایرانی",
+                            "backgroundColor": "#bb660005",
+                            "textColor": "#ffffff"
                         }
                     },
                     "____comments": [
