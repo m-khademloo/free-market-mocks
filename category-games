@@ -1,0 +1,181 @@
+{
+    "result": {
+        "hasNext": false,
+        "page": {
+            "name": "category-games",
+            "version": "v3",
+            "components": [
+                {
+                    "type": "LinkVerticalCollection",
+                    "data": {
+                        "title": "",
+                        "maxCount": 0,
+                        "inlineAction": null,
+                        "divider": {
+                            "color": "#444444",
+                            "margin": {
+                                "leftMargin": {
+                                    "quantity": 16,
+                                    "type": "dp"
+                                },
+                                "rightMargin": {
+                                    "quantity": 48,
+                                    "type": "dp"
+                                }
+                            }
+                        },
+                        "links": [
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.ohanian.kiddosincamp_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "آموزشی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.leme.coe_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "استراتژی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.nzt.shadow.lengeds.stickman.action.rpg_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "اکشن"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.nightlightgamestudio.loopa_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "امتیازی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/game.bubble.shooter.dragon.pop_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "تفننی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.karizmastudio.yatzy_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "خانوادگی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.ontherun.woaiyouxi.palm_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "رانندگی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.darbache.sedarchahar_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "شبیه‌سازی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/wordslide.stackcrossword.wordsearchgame_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "کلمات و دانستنی‌ها"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.AmanitaDesign.Machinarium.Humble_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "ماجرایی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.differencetenderwhite.skirt_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "معمایی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.Midopia.SarZarb_512x512.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "ورزشی"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "error": null,
+    "statusCode": 200,
+    "serverDateTime": "2020-05-01T17:47:06.6843332+00:00"
+}
