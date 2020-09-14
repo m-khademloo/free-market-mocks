@@ -1,0 +1,325 @@
+{
+    "result": {
+        "hasNext": false,
+        "page": {
+            "name": "category-applications",
+            "version": "v3",
+            "components": [
+                {
+                    "type": "LinkVerticalCollection",
+                    "data": {
+                        "title": "",
+                        "maxCount": 0,
+                        "inlineAction": null,
+                        "divider": {
+                            "color": "#444444",
+                            "margin": {
+                                "leftMargin": {
+                                    "quantity": 16,
+                                    "type": "dp"
+                                },
+                                "rightMargin": {
+                                    "quantity": 48,
+                                    "type": "dp"
+                                }
+                            }
+                        },
+                        "links": [
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.app.weatherclock_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "آب و هوا"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.app5.mrchef_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "آشپزی و رستوران"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/ir.learnit_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "آموزش"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/colors.ir.ircolor_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "ابزارها"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/ir.hooshdadeh.bourse_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "امور مالی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.whatsapp_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "پیام‌رسان‌ها"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.dibaache.android_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "خبرها و نشریات"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.botick.app_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "خرید"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.smartest.android_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "دارو و درمان"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.pas.BusHmd_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "رفت و آمد"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/ir.pakcharkh.bdood_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "سبک زندگی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/pl.ayground.coloringbook_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "سرگرمی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/ir.alibaba_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "سیر و سفر"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.linkedin.android_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "شبکه‌های اجتماعی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.PHELAT.Vollip_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "شخصی‌سازی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.acolorstory_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "عکاسی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.android.chrome_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "کاربردی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/ir.mservices.mybook_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "کتاب‌ها و منابع"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.parsasoftsystem.dokkan_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "کسب و کار"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.oloomquran_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "مذهبی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.soundcloud.android_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "موسیقی و صدا"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/sixpack.sixpackabs.absworkout_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "ورزش و تغذیه سالم"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/com.juventus.app.android_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "ورزشی"
+                            },
+                            {
+                                "icon": {
+                                    "path": "https://s.cafebazaar.ir/1/icons/ir.smartup.vidioto_128x128.png",
+                                    "ratio": {
+                                        "dimensionRatio": "1:1",
+                                        "type": "HeightBased",
+                                        "constraintDimensionRatio": "h,1:1"
+                                    }
+                                },
+                                "link": "freemarket://page/pdp?parameter=222",
+                                "title": "ویدئو و رسانه"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "error": null,
+    "statusCode": 200,
+    "serverDateTime": "2020-05-01T17:47:06.6843332+00:00"
+}
