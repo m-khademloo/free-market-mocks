@@ -738,7 +738,7 @@
                 {
                     "type": "OneRowBanners",
                     "data": {
-                        "title": "پرفروش‌ترین ها",
+                        "title": "به این برنامه‌ها سر بزن، ضرر نمیکنی",
                         "inlineAction": {
                             "title": "همه رو ببین",
                             "link": "freemarket://page/pdp?parameter=222",
@@ -748,7 +748,7 @@
                         "banners": [
                             {
                                 "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-557686087493.jpg",
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4314_m_fa.jpg",
                                     "ratio": {
                                         "dimensionRatio": "2:1",
                                         "type": "HeightBased",
@@ -756,115 +756,75 @@
                                     }
                                 },
                                 "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
+                                "tag": {
+                                    "title": "فقط در مارکت آزاد",
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
+                                }
                             },
                             {
                                 "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-500605048227.jpg",
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4308_m_fa.jpg",
                                     "ratio": {
                                         "dimensionRatio": "2:1",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
+                                        "constraintDimensionRatio": "h,3:4"
                                     }
                                 },
                                 "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
+                                "tag": {
+                                    "title": "فقط در مارکت آزاد",
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
+                                }
                             },
                             {
                                 "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-434067180488.jpg",
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4285_m_fa.jpg",
                                     "ratio": {
                                         "dimensionRatio": "2:1",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
+                                        "constraintDimensionRatio": "h,2:1"
                                     }
                                 },
                                 "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
+                                "tag": {
+                                    "title": "فقط در مارکت آزاد",
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
+                                }
                             },
                             {
                                 "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-128980750558.jpg",
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo3996_m_fa.jpg",
                                     "ratio": {
                                         "dimensionRatio": "2:1",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
+                                        "constraintDimensionRatio": "h,1:2"
                                     }
                                 },
                                 "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
+                                "tag": {
+                                    "title": "فقط در مارکت آزاد",
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
+                                }
                             },
                             {
                                 "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-561734201402.jpg",
+                                    "path": "https://fecdn.cafebazaar.ir/promos/promo4314_m_fa.jpg",
                                     "ratio": {
                                         "dimensionRatio": "2:1",
                                         "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
+                                        "constraintDimensionRatio": "h,1:1"
                                     }
                                 },
                                 "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
-                            },
-                            {
-                                "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-836208569126.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
-                            },
-                            {
-                                "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-550977168791.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
-                            },
-                            {
-                                "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-858504476299.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
-                            },
-                            {
-                                "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-589264208492.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
-                            },
-                            {
-                                "image": {
-                                    "path": "https://raw.githubusercontent.com/m-khademloo/free-market-mocks/master/images/com.Midopia.SarZarb-523225056365.jpg",
-                                    "ratio": {
-                                        "dimensionRatio": "2:1",
-                                        "type": "HeightBased",
-                                        "constraintDimensionRatio": "h,4:3"
-                                    }
-                                },
-                                "link": "freemarket://page/pdp?parameter=222",
-                                "tag": null
+                                "tag": {
+                                    "title": "فقط در مارکت آزاد",
+                                    "backgroundColor": "#cc2b2b2b",
+                                    "textColor": "#ffffff"
+                                }
                             }
                         ]
                     }
